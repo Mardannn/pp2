@@ -19,3 +19,4 @@ fruits.remove("banana")
 #Sets5
 fruits = {"apple", "banana", "cherry"}
 fruits.discard("banana")
+
